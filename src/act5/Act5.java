@@ -4,17 +4,19 @@
  */
 package act5;
 
+import act5.gui.VentanaPrincipal;
+import javax.swing.SwingUtilities;
 /**
  *
  * @author Admin
  */
 public class Act5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        SwingUtilities.invokeLater(() -> {
+            VentanaPrincipal ventana = new VentanaPrincipal();
+            ventana.setVisible(true);
+        });
     }
     
 }
