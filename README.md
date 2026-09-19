@@ -43,9 +43,9 @@ src/
 
 Instalación y Ejecución
 Clona el repositorio:
-
+```text
 git clone [https://github.com/Mcpapuru9/Act5AlgoritmosOrdenamiento.git](https://github.com/Mcpapuru9/Act5AlgoritmosOrdenamiento.git)
-
+```
 Abre el proyecto en tu IDE preferido (NetBeans, IntelliJ IDEA o Eclipse).
 
 Ejecuta la aplicación:
