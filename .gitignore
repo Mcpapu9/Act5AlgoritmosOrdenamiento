@@ -1,0 +1,14 @@
+# Compilación de Java
+/bin/
+/out/
+/target/
+/build/
+/dist/
+
+# Archivos de configuración de NetBeans
+/nbproject/private/
+nbbuild/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
